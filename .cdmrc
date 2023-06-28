@@ -1,1 +1,2 @@
 tabs: ['contracts/temperature.sol']
+terminals: ['yarn install']
