@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity >=0.5.0 <0.9.0;
+pragma solidity 0.8.19;
 
 contract temperature {
     function checkTemp(uint256 temp) public pure returns (string memory) {
